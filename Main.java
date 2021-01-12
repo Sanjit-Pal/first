@@ -24,6 +24,8 @@ public class Main {
 		Instant now = Instant.now();
 		System.out.println("Now instsnt : " + now);
 		
+		System.out.println("New line added");
+		
 	}
 
 }
